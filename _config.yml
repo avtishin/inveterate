@@ -4,11 +4,11 @@ title: Swiss Jekyll Theme
 description: A bold typographic theme inspired by Swiss design.
 
 # social
-social_link: twitter
-social_username: broccolini
-github_repo: athena # the GitHub repo name for your project
-github_username: broccolini
-theme_color: black
+social_link: facebook
+social_username: avtishin
+github_repo: inveterate # the GitHub repo name for your project
+github_username: avtishin
+theme_color: white
 
 # Theme
 remote_theme: 'internet-de-france/swiss'
