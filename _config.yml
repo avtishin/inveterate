@@ -8,7 +8,7 @@ social_link: facebook
 social_username: avtishin
 github_repo: inveterate # the GitHub repo name for your project
 github_username: avtishin
-theme_color: white
+theme_color: red
 
 # Theme
 remote_theme: 'internet-de-france/swiss'
